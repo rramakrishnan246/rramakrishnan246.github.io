@@ -10,7 +10,8 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    background-color: blue;
+    background-color: rgb(0,0,255);
+    color: yellow;
     margin-right: 20px;
 }
 a {
