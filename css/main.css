@@ -18,6 +18,9 @@ nav ul li {
     background-color: aqua;
     font-family: cursive;
 }
+footer ul li {
+    color: black;
+}
 a {
     text-decoration: none;
     color: #999;
