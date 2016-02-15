@@ -15,8 +15,9 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 nav ul li {
+
+    color: yellow;
     background-color: aqua;
-    color: yellow; !important
     font-family: cursive;
 }
 a {
