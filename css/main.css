@@ -16,7 +16,7 @@ nav ul li, footer ul li {
 }
 nav ul li {
     background-color: aqua;
-    color: black; !important
+    color: yellow; !important
     font-family: cursive;
 }
 a {
