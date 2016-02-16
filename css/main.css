@@ -18,6 +18,10 @@ nav ul li {
     background-color: aqua;
     font-family: cursive;
 }
+footer {
+    bottom: 0;
+    position: absolute;
+}
 footer ul li {
     color: black;
 }
