@@ -18,10 +18,7 @@ nav ul li {
     background-color: aqua;
     font-family: cursive;
 }
-footer {
-    bottom: 0;
-    position: absolute;
-}
+
 footer ul li {
     color: black;
 }
@@ -37,6 +34,8 @@ a:hover {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    bottom: 0;
+    position: absolute;
 }
 
 ul.posts { 
