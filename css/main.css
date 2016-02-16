@@ -18,15 +18,6 @@ nav ul li {
     background-color: aqua;
     font-family: cursive;
 }
-div {
-    background-color: gray;
-    height: 100px;
-    margin-left: 0px;
-    margin-right: 0px;
-    width: 1200px;
-    margin: 0px 0%;
-    margin-bottom: 10px;
-}
 
 footer ul li {
     color: black;
