@@ -5,5 +5,7 @@ div {
 	height: 50px;
 	width: 120px;
 	margin: auto;
-	text-align: right;
+	text-align: center;
+	font: Arial;
+	font-size: 30px;
 }
