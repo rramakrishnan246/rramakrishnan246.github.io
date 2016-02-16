@@ -22,13 +22,7 @@ nav ul li {
 footer ul li {
     color: black;
 }
-a {
-    /*text-decoration: underline;*/
-   /* color: #CFB53B;*/
-}
-a:hover {
-    text-decoration: underline;
-}
+
 
 
 footer {
