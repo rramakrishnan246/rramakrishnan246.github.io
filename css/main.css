@@ -2,10 +2,6 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-div {
-    background-color: gray;
-    height: 100px;
-}
 nav ul, footer ul {
     padding: 0px;
 }
@@ -26,7 +22,7 @@ footer ul li {
     color: black;
 }
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #CFB53B;
 }
 a:hover {
