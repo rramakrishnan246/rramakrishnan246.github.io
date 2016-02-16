@@ -21,7 +21,9 @@ nav ul li {
 div {
     background-color: gray;
     height: 100px;
-    width: 1600px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 1200px;
     margin: 0px 0%;
     margin-bottom: 10px;
 }
