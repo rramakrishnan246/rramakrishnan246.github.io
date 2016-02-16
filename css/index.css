@@ -1,13 +1,11 @@
 div {
 	border-radius: 5px;
 	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
+	background-color: orange;
 	height: 50px;
 	width: 120px;
-	margin: auto;
 	text-align: center;
 	font: Arial;
 	font-size: 30px;
-	top: 450px;
-	left: 350px;
+	color: white;
 }
