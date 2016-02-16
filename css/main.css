@@ -23,7 +23,7 @@ footer ul li {
     color: black;
 }
 a {
-    text-decoration: underline;
+    /*text-decoration: underline;*/
    /* color: #CFB53B;*/
 }
 a:hover {
